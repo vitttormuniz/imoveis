@@ -1,10 +1,6 @@
 ## Projeto: Análise de Dados de Imóveis
 
-Este repositório contém um notebook Jupyter que realiza análises de dados relacionadas a imóveis. O projeto utiliza bibliotecas populares de Python para limpeza, visualização e modelagem de dados.
-
-### Arquivo Principal
-
-- `imoveis.ipynb`: Notebook com o código e análise de dados.
+Este repositório apresenta um projeto de análise de dados imobiliários utilizando Python. O objetivo é explorar, limpar e analisar um conjunto de dados com informações detalhadas sobre propriedades, ajudando a identificar tendências, padrões e insights valiosos. Além disso, o projeto pode incluir modelos preditivos para estimar preços e características relacionadas.
 
 ### Descrição das Colunas
 Abaixo estão os detalhes das colunas utilizadas no conjunto de dados analisado:
